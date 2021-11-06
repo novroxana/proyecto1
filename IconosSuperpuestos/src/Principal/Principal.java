@@ -14,7 +14,7 @@ public class Principal {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("Hola mundo con git y java");
+		System.out.println("Hola mundo bonito con git y java");
 
 	}
 
